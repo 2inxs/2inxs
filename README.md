@@ -2,6 +2,8 @@
 
 Mostly C++ and Python for single board computers. Cameras, video pipelines, small services that run at home. Some Go and TypeScript when a web UI is needed.
 
+Computer vision side: worked with YOLO, trained models, cut and prepared datasets for them.
+
 <div align="center">
 
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
@@ -49,6 +51,8 @@ The rest is private, drones and work things.
 <br>
 
 Пишу в основном под одноплатники: камеры, видеопайплайны, мелкие сервисы для дома. C++ и Python, местами Go и TypeScript когда нужен веб-интерфейс.
+
+По части компьютерного зрения работал с YOLO: учил модели, резал и готовил датасеты.
 
 - [**lanboard**](https://github.com/2inxs/lanboard) - доска для локальной сети. Холст, таблицы с формулами, графики, физическая песочница и шифрованный чат. Интернет не нужен.
 - [**night_watch**](https://github.com/2inxs/night_watch) - склеивает две USB-камеры в панораму и следит за тем что движется. Запись в H.265, хайлайты по движению.
