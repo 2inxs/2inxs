@@ -6,7 +6,12 @@ Computer vision side: worked with YOLO, trained models, cut and prepared dataset
 
 **Languages**
 
-Python · Go · C++ · C#
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Go" src="https://img.shields.io/badge/Go-007D9C?style=for-the-badge&logo=go&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=dotnet&logoColor=white">
+</p>
 
 ## Projects
 
@@ -25,7 +30,11 @@ The rest is private, drones and work things.
 
 ## GitHub activity
 
-[Contribution graph](https://github.com/2inxs#js-contribution-activity) · [Repositories](https://github.com/2inxs?tab=repositories) · [Followers](https://github.com/2inxs?tab=followers)
+<p align="center">
+  <a href="https://github.com/2inxs#js-contribution-activity"><img alt="Contribution graph" src="https://img.shields.io/badge/Contribution%20graph-24292F?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/2inxs?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-0969DA?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/2inxs?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/2inxs?style=for-the-badge&logo=github&logoColor=white&color=8250DF"></a>
+</p>
 
 <details>
 <summary><b>Русская версия</b></summary>
