@@ -1,28 +1,12 @@
 # 2inxs
 
-Mostly C++ and Python for single board computers. Cameras, video pipelines, small services that run at home. Some Go and TypeScript when a web UI is needed.
+I build camera tools, video pipelines, and small services for single-board computers, as well as Windows desktop apps.
 
 Computer vision side: worked with YOLO, trained models, cut and prepared datasets for them.
 
-<div align="center">
+**Languages**
 
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](#)
-
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](#)
-[![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)](#)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
-[![GStreamer](https://img.shields.io/badge/GStreamer-E01F27?style=for-the-badge&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
-[![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)](#)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](#)
-[![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)](#)
-
-</div>
+Python · Go · C++ · C#
 
 ## Projects
 
@@ -39,21 +23,16 @@ Computer vision side: worked with YOLO, trained models, cut and prepared dataset
 
 The rest is private, drones and work things.
 
-## Stats
+## GitHub activity
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=2inxs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2inxs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-</div>
+[Contribution graph](https://github.com/2inxs#js-contribution-activity) · [Repositories](https://github.com/2inxs?tab=repositories) · [Followers](https://github.com/2inxs?tab=followers)
 
 <details>
 <summary><b>Русская версия</b></summary>
 
 <br>
 
-Пишу в основном под одноплатники: камеры, видеопайплайны, мелкие сервисы для дома. C++ и Python, местами Go и TypeScript когда нужен веб-интерфейс.
+Пишу в основном под одноплатники: камеры, видеопайплайны, мелкие сервисы для дома. Также делаю десктопные приложения для Windows.
 
 По части компьютерного зрения работал с YOLO: учил модели, резал и готовил датасеты.
 
